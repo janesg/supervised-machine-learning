@@ -2,7 +2,7 @@
 
 Module 1 of the Coursera specialization: Machine Learning Specialization
 
-	* https://www.coursera.org/specializations/machine-learning-introduction
+* https://www.coursera.org/specializations/machine-learning-introduction
 
 Exercises and solutions:
 
