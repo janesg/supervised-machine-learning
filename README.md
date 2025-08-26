@@ -1,6 +1,6 @@
 # supervised-machine-learning
 
-Module 1 of the Coursera specialization: Machine Learning Specialization
+Module 1 of the Coursera: Machine Learning Specialization
 
 * https://www.coursera.org/specializations/machine-learning-introduction
 
